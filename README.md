@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paruchuriumeshchandra" alt="paruchuriumeshchandra" /></a> </p>
 
-- 🌱 I’m currently learning **AngularJS**
+- 🌱 I’m currently learning **AngularJS, Core Java, Android App Development**
 
 - 💬 Ask me about **C, Python, Basic Java, Programming**
 
 - 📫 How to reach me **paruchuriumeshchandra@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1v_WS1Cx69G6QpkIa12hQMJ3BaFi3PbAv/view?usp=sharing](https://drive.google.com/file/d/1v_WS1Cx69G6QpkIa12hQMJ3BaFi3PbAv/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1v_WS1Cx69G6QpkIa12hQMJ3BaFi3PbAv/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://g.dev/umeshchandra_sruniversity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://g.dev/umeshchandra_sruniversity" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/paruchuriumeshchandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paruchuriumeshchandra" height="30" width="40" /></a>
+<a href="https://dev.to/https://g.dev/umeshchandra_sruniversity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://g.dev/umeshchandra_sruniversity" height="30" width="40" /></a>
 <a href="https://kaggle.com/umeshchandra05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="umeshchandra05" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/umeshchandra05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="umeshchandra05" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/umeshchandraparuchuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="umeshchandraparuchuri" height="30" width="40" /></a>
